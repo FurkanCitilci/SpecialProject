@@ -1,0 +1,4 @@
+Projeyi TCP socketi kullanarak yaptım.
+Diş tedavimden olayı 3-4 gün ilgilnemediğim için daha önce üzerine çalıştığım projeyi revize ederek paylşamak istedim.
+Udp socketi üzerinde çok kısa bir çalışma gerçekleştirdim ancak programı
+çalıştıramadığım için bu projeyi paylaşmak istedim
